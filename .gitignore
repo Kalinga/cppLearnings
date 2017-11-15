@@ -27,3 +27,14 @@
 *.out
 *.app
 .idea/
+
+CMakeFiles/
+CMakeCache.txt
+Makefile
+hello-world/base
+hello-world/cmake_install.cmake
+hello-world/derive
+hello-world/helloworld
+hello-world/myvec
+cpp/advance/logger
+cpp/basics/dList
